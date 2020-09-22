@@ -7,7 +7,10 @@
 public class AboutMe {
     public static void main (String [] args) {
         // Declaring the variables
-        // TODO: Write the code the declares the variables
+        String myName = "Ericka";
+        int myAge = 15 ;
+        double myHeightInMetres = 1.65 ;
+        
 
         // Print the values
         System.out.println("Hi, my name is " + myName);
@@ -16,7 +19,8 @@ public class AboutMe {
 
         // Change the variables
         // TODO: Write the code that changes the variables
-
+        int myAge = 16 ;
+        
         // Print the new values
         System.out.println("Some time passes...");
         // TODO: Write the last two print statements
