@@ -1,7 +1,7 @@
 /*
- * Programmer:
- * Date:
- * Purpose:
+ Programmer: Ericka Van Dongen
+ Date: September 23 2020
+ Purpose: To create a program about me 
  */
 
 public class AboutMe {
@@ -19,10 +19,13 @@ public class AboutMe {
 
         // Change the variables
         // TODO: Write the code that changes the variables
-        int myAge = 16 ;
+        myAge = 16 ;
+        myHeightInMetres = 1.66 ;
         
         // Print the new values
         System.out.println("Some time passes...");
         // TODO: Write the last two print statements
+        System.out.println("I am now " + myAge + " years old.");
+        System.out.println("I have grown and am " + myHeightInMetres + " M tall.");
     }
 }
