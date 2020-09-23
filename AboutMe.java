@@ -18,14 +18,12 @@ public class AboutMe {
         System.out.println("My height is " + myHeightInMetres + " m.");
 
         // Change the variables
-        // TODO: Write the code that changes the variables
         myAge = 16 ;
         myHeightInMetres = 1.66 ;
         
         // Print the new values
         System.out.println("Some time passes...");
-        // TODO: Write the last two print statements
         System.out.println("I am now " + myAge + " years old.");
-        System.out.println("I have grown and am " + myHeightInMetres + " M tall.");
+        System.out.println("I have grown and am " + myHeightInMetres + " m tall.");
     }
 }
