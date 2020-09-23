@@ -8,8 +8,8 @@ public class AboutMe {
     public static void main (String [] args) {
         // Declaring the variables
         String myName = "Ericka Van Dongen";
-        int myAge = 15 ;
-        double myHeightInMetres = 1.65 ;
+        int myAge = 15;
+        double myHeightInMetres = 1.65;
         
 
         // Print the values
